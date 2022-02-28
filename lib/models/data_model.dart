@@ -14,8 +14,3 @@ class Data {
       title: json['title'],
       body: json['body']);
 }
-
-//    var response = await client.get(url, headers: {
-    //   "Content-Type": "application/json",
-    //   "Authorization": "Bearer ${User.token}"
-    // });
